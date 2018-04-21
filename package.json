@@ -1,0 +1,14 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "Bamazon homework assignment",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
